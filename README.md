@@ -1,8 +1,56 @@
-# React + Vite
+# Book Store Client
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based frontend for the Book Store API, built with Vite.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contributors](#contributors)
+- [License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Ahmed-M-Shaban/Book-Store-client.git
+    cd Book-Store-client
+    ```
+
+2. Install the dependencies:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+1. Start the development server:
+    ```bash
+    npm run dev
+    ```
+
+2. Open your browser and navigate to `http://localhost:3000` to view the application.
+
+## Features
+
+- Browse a collection of books.
+- Add, edit, and delete books.
+- User authentication.
+- Responsive design.
+
+## Technologies Used
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- HTML
+
+## Contributors
+
+- Ahmed M. Shaban
+
+## License
+
+This project is licensed under the MIT License.
